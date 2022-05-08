@@ -1,0 +1,24 @@
+.menu{
+    height: 200px;
+    width: 400px;
+   background-color: beige; 
+   padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;   
+    
+}
+
+.item{
+    background-color: darkgreen;
+    height: 30px;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    
+}
+
+
